@@ -18,3 +18,8 @@ For the client
 8. run pnpm dev, this runs a vite react app on localhost:5173
 
 To test open the localhost:5173 in a browser window and an incognito browser window and click play on both sites. 
+
+IF you want to clear the history (it gets saved in the local storage)
+Click in the i button in the browser window and remove the local storage
+![image](https://user-images.githubusercontent.com/37148941/230126822-916179b9-8cb5-4d1c-91d1-84b7aed7a09a.png)
+
